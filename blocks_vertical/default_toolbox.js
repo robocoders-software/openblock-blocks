@@ -29,7 +29,7 @@ goog.require('Blockly.Blocks');
  */
 
 Blockly.Blocks.defaultToolbox = '<xml id="toolbox-categories" style="display: none">' +
-  '<category name="%{BKY_CATEGORY_MOTION}" id="motion" colour="#4C97FF" secondaryColour="#3373CC">' +
+  '<category name="%{BKY_CATEGORY_MOTION}" id="motion" colour="#9966FF" secondaryColour="#774DCB">' +
     '<block type="motion_movesteps" id="motion_movesteps">' +
       '<value name="STEPS">' +
         '<shadow type="math_number">' +
@@ -144,7 +144,7 @@ Blockly.Blocks.defaultToolbox = '<xml id="toolbox-categories" style="display: no
     '<block type="motion_yposition" id="motion_yposition"></block>' +
     '<block type="motion_direction" id="motion_direction"></block>' +
   '</category>' +
-  '<category name="%{BKY_CATEGORY_LOOKS}" id="looks" colour="#9966FF" secondaryColour="#774DCB">' +
+  '<category name="%{BKY_CATEGORY_LOOKS}" id="looks" colour="#4C97FF" secondaryColour="#3373CC">' +
     '<block type="looks_show" id="looks_show"></block>' +
     '<block type="looks_hide" id="looks_hide"></block>' +
     '<block type="looks_switchcostumeto" id="looks_switchcostumeto">' +
