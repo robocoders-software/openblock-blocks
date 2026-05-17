@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @license
  * Visual Blocks Editor
  *
@@ -29,7 +29,7 @@ goog.require('Blockly.Blocks');
  */
 
 Blockly.Blocks.defaultToolbox = '<xml id="toolbox-categories" style="display: none">' +
-  '<category name="%{BKY_CATEGORY_MOTION}" id="motion" colour="#9966FF" secondaryColour="#774DCB">' +
+  '<category name="%{BKY_CATEGORY_MOTION}" id="motion" colour="#004AAD" secondaryColour="#003A8C">' +
     '<block type="motion_movesteps" id="motion_movesteps">' +
       '<value name="STEPS">' +
         '<shadow type="math_number">' +

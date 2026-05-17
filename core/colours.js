@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @license
  * Visual Blocks Editor
  *
@@ -31,9 +31,9 @@ Blockly.Colours = {
     "tertiary": "#3373CC"
   },
   "looks": {
-    "primary": "#9966FF",
-    "secondary": "#7040C0",
-    "tertiary": "#774DCB"
+    "primary": "#004AAD",
+    "secondary": "#003A8C",
+    "tertiary": "#003A8C"
   },
   "sounds": {
     "primary": "#CF63CF",
