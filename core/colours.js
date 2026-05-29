@@ -31,9 +31,9 @@ Blockly.Colours = {
     "tertiary": "#3373CC"
   },
   "looks": {
-    "primary": "#004AAD",
-    "secondary": "#003A8C",
-    "tertiary": "#003A8C"
+    "primary": "#9966FF",
+    "secondary": "#855CD6",
+    "tertiary": "#774DCB"
   },
   "sounds": {
     "primary": "#CF63CF",
